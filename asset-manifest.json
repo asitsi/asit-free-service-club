@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/asit-free-service-club/static/css/main.073c9b0a.css",
+    "main.js": "/asit-free-service-club/static/js/main.7657ab32.js",
+    "static/js/787.7bb4976f.chunk.js": "/asit-free-service-club/static/js/787.7bb4976f.chunk.js",
+    "static/media/logo.svg": "/asit-free-service-club/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/asit-free-service-club/index.html",
+    "main.073c9b0a.css.map": "/asit-free-service-club/static/css/main.073c9b0a.css.map",
+    "main.7657ab32.js.map": "/asit-free-service-club/static/js/main.7657ab32.js.map",
+    "787.7bb4976f.chunk.js.map": "/asit-free-service-club/static/js/787.7bb4976f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7657ab32.js"
+  ]
+}
